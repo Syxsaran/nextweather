@@ -1,5 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+
 //client side rendering -> fetch data from api backend + APIKEY -> OpenWeather api
 //server side rendering -> fetch data from OpenWeather api backend
 //Display data on page
